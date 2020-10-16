@@ -8,6 +8,17 @@ The following are lecture notes and lab materials from my Additive Manufacturing
 - [Topological Optimization](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/Topological%20Optimization.pdf)
 - [Lattice](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/Lattice.pdf)
 - [Vat Photopolymerization](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/Vat%20Polymerization.pdf)
+- Powder Bed Fusion & SLS
+- Other Additive Processes
+- Equipment
+- Reverse Engineering
+- Post Processing
+- PRP
+- Medical
+- Tooling & Other Applications
+- Start Ups
+- Mass Production
+- Supply Chain
 #
 The following are GCode files used for FDM projects:
 - Overhang Angles Test
