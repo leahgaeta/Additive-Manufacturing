@@ -24,5 +24,11 @@ The following are GCode files used for FDM projects:
 - [Overhang Angles Test](https://github.com/leahgaeta/Additive-Manufacturing/blob/master/CE3_A1%20-%20ver3.gcode)
 - [Organic Shape: Sprouting Nut](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/CE3_lab2_9.28.gcode)
 - [Topologically Optimized Hanger](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/CE3%20A3%20TO%20Hanger.gcode)
+- Lattice Elephant Toy
+  - Solid
+  - Voronoi surface lattice
+  - Voronoi surface lattice with solid legs, tail, trunk, and ears
+  - Voronoi surface lattice & cubic volume lattice with solid legs, tail, trunk, and ears
+  - Voronoi surface lattice & voronoi volume lattice with solid legs, tail, trunk, and ears
 #
 \* *Lecture slides are not included as those are private to the class, but these notes encompass items learned from lecture, lab, and the various readings completed. In addition, most images are not my own; these were included to help visually aid my understanding of the material.* 
