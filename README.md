@@ -26,9 +26,9 @@ The following are GCode files used for FDM projects:
 - [Topologically Optimized Hanger](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/CE3%20A3%20TO%20Hanger.gcode)
 - Lattice Elephant Toy
   - [Solid](https://raw.githubusercontent.com/leahgaeta/Additive-Manufacturing/master/CE3_A4V0.gcode) - with supports for overhang angle > 70 degrees
-  - Voronoi surface lattice
-  - Voronoi surface lattice with solid legs, tail, trunk, and ears
-  - Voronoi surface lattice & cubic volume lattice with solid legs, tail, trunk, and ears
-  - Voronoi surface lattice & voronoi volume lattice with solid legs, tail, trunk, and ears
+  - Voronoi surface lattice (file size is large, will have on repo when condensed, or available upon request)
+  - Voronoi surface lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
+  - Voronoi surface lattice & cubic volume lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
+  - Voronoi surface lattice & voronoi volume lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
 #
 \* *Lecture slides are not included as those are private to the class, but these notes encompass items learned from lecture, lab, and the various readings completed. In addition, most images are not my own; these were included to help visually aid my understanding of the material.* 
