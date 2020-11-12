@@ -1,5 +1,5 @@
 # Additive Manufacturing
-The following are lecture notes and lab materials from my Additive Manufacturing course taught by Professor Anna Thornton at Boston University.* Note that this is an ongoing course and the readme will be updated as the class progresses through the fall semester. The goal is to have notes & study guides added weekly.
+The following are lecture notes and lab materials from my Additive Manufacturing course taught by Professor Anna Thornton at Boston University.* Note that this is an ongoing course and the readme will be updated as the class progresses through the fall semester. The goal is to have notes & study guides added weekly. ***I've fallen a little behind on getting everything on the repo, but will circle back once midterms and other projects are completed***
 #
 - [Introduction to Additive Manufacturing](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/Introduction%20to%20AM.pdf)
 - [Additive Data Workflow](https://github.com/leahgaeta/Additive-Manufacturing/raw/master/Additive%20Data%20Workflow.pdf)
@@ -13,7 +13,7 @@ The following are lecture notes and lab materials from my Additive Manufacturing
 - Equipment
 - Reverse Engineering
 - Post Processing
-- PRP
+- Product Realization Process (PRP)
 - Medical
 - Tooling & Other Applications
 - Start Ups
