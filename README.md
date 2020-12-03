@@ -30,5 +30,7 @@ The following are GCode files used for FDM projects:
   - Voronoi surface lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
   - Voronoi surface lattice & cubic volume lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
   - Voronoi surface lattice & voronoi volume lattice with solid legs, tail, trunk, and ears (file size is large, will have on repo when condensed, or available upon request)
+- Identification of Optimal Print Parameters at Varying Print Speeds ***Coming soon***
+- Make Something that Makes Sound! ***Coming soon***
 #
 \* *Lecture slides are not included as those are private to the class, but these notes encompass items learned from lecture, lab, and the various readings completed. In addition, most images are not my own; these were included to help visually aid my understanding of the material.* 
